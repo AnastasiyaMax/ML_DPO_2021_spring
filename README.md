@@ -5,5 +5,7 @@
  
  Дополнительный источник задач: https://github.com/bdemeshev/mlearn_pro
  
+ Формула оценки: $$O_{итог}$$
+ 
  ## Задания
  * [Теоретическое ДЗ-1](https://github.com/AnastasiyaMax/ML_DPO_2021_spring/blob/main/hw-theory/TheoryHW_1.pdf), выдано 23.01, дедлайн – 07.02, 23:59. 
