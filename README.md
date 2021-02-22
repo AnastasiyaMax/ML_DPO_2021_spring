@@ -15,3 +15,4 @@
  ## Задания
  * [Теоретическое ДЗ-1](https://github.com/AnastasiyaMax/ML_DPO_2021_spring/blob/main/hw-theory/TheoryHW_1.pdf), выдано 23.01, дедлайн – 10.05.2021 
  * [Практическое ДЗ-1](https://github.com/AnastasiyaMax/ML_DPO_2021_spring/blob/main/hw-practice/HW-01.ipynb): выдано 02.02, дедлайн – 16.02.2021
+ * [Практическое ДЗ-2](https://github.com/AnastasiyaMax/ML_DPO_2021_spring/blob/main/hw-practice/HW-02.ipynb): выдано 24.02, дедлайн – 03.03,2021
