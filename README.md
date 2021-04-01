@@ -17,5 +17,5 @@
  * [Практическое ДЗ-1](https://github.com/AnastasiyaMax/ML_DPO_2021_spring/blob/main/hw-practice/HW-01.ipynb): выдано 02.02, дедлайн – 16.02.2021
  * [Практическое ДЗ-2](https://github.com/AnastasiyaMax/ML_DPO_2021_spring/blob/main/hw-practice/HW-02.ipynb): выдано 24.02, дедлайн – 03.03.2021
  * [Практическое ДЗ-3](https://github.com/AnastasiyaMax/ML_DPO_2021_spring/blob/main/hw-practice/HW-03.ipynb): выдано 14.03, дедлайн – 21.03.2021
- * [Практическое ДЗ-4](): выдано 01.04, дедлайн – 11.04.2021
+ * [Практическое ДЗ-4](https://github.com/AnastasiyaMax/ML_DPO_2021_spring/blob/main/hw-practice/HW-04.ipynb): выдано 01.04, дедлайн – 11.04.2021
  * [Практическое ДЗ-5](https://docs.google.com/document/d/1XCK7LQaHwV8DA_3hBKc53TEY2xn63L63b-cgGWignYU/edit?usp=sharing): выдано 11.04, дедлайн – 02.05.2021
